@@ -1,3 +1,3 @@
 # simple cli
 
-This is just a hello world test
+run `npm link` to make `creator` avaiable anywhere
